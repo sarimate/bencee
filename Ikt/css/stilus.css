@@ -1,0 +1,76 @@
+body {
+    background-image: url(../kepek/hatter.jpg);
+    background-color: antiquewhite;
+    margin: 20px;
+}
+img {
+    display: flex;
+    margin: auto;
+    width: 40%;
+    padding: 7px;
+}
+h1 {
+    text-align: center;
+    font-size: 75px;
+}
+header {
+    font-size: 55px;
+    text-align: center;
+}
+h3 {
+    text-align: center;
+    font-size: 50px;
+}
+h2 {
+    text-align: center;
+    font-size: 55px;
+}
+p {
+    text-align:justify;
+    font-size: 45px;
+    width: 50%;
+}
+#home {
+    text-align: justify;
+    font-size: 45px;
+}
+#forras {
+    text-align: left;
+}
+.mainkep {
+    display: flex;
+    margin: auto;
+}
+
+#kep {
+    float: right;
+    padding: 50px;
+}
+div {
+    padding: 5%;
+}
+.tk {
+    width:45%;
+}
+.tn {
+    width: 25%;
+}
+.ta {
+    font-size: 30px;
+}
+a:link {
+    text-decoration: none;
+    color: blue;
+}
+a:visited{
+    text-decoration: none;
+    color: blue;
+}
+a:hover{
+    text-decoration: none;
+    color: red;
+}
+a:active{
+    text-decoration: none;
+    color: blue;
+}
